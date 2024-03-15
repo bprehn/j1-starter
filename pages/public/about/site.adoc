@@ -85,13 +85,10 @@ You find an overview of all the functions of the template system J1 on the
 page link:{url-j1--features}[J1 Theme Features, {browser-window--new}].
 
 == Experience in catering since YYYY
+lorem:sentences[5]
+lorem:sentences[7]
 == Our services
+lorem:sentences[7]
+lorem:sentences[5]
 === Large selection of national and internal dishes
-=== Compilation of buffets per person
-=== Crockery and cutlery service
-== Our delivery service
-=== Delivery areas
-=== Delivery times and days
-== Contact addresses
-Contact person PPP +
-Service mailbox MMM
+lorem:sentences[5]
