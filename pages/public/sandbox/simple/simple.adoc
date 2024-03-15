@@ -1,5 +1,5 @@
 ---
-title:                                  Simple Document
+title:                                  Simple Sandbox Document
 tagline:                                Create Typical Articles
 
 date:                                   2022-01-01
