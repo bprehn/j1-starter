@@ -100,3 +100,5 @@ lorem:sentences[5]
 
 .My added image - Limit the image width
 image::/assets/images/modules/gallery/old_times/image_01.jpg["GrandPa's 80th Birthday", role="mb-4 wm-800"]
+
+NOTE: Your text goes here.
