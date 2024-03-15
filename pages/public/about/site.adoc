@@ -83,3 +83,15 @@ which symbolizes the individual level of knowledge for the use of:
 * Functions for experts in the application of J1: {level--expert}
 You find an overview of all the functions of the template system J1 on the
 page link:{url-j1--features}[J1 Theme Features, {browser-window--new}].
+
+== Experience in catering since YYYY
+== Our services
+=== Large selection of national and internal dishes
+=== Compilation of buffets per person
+=== Crockery and cutlery service
+== Our delivery service
+=== Delivery areas
+=== Delivery times and days
+== Contact addresses
+Contact person PPP +
+Service mailbox MMM
