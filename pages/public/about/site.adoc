@@ -87,8 +87,10 @@ page link:{url-j1--features}[J1 Theme Features, {browser-window--new}].
 == Experience in catering since YYYY
 lorem:sentences[5]
 lorem:sentences[7]
+
 == Our services
 lorem:sentences[7]
 lorem:sentences[5]
+
 === Large selection of national and internal dishes
 lorem:sentences[5]
