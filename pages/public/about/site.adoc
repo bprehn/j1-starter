@@ -75,4 +75,11 @@ an About page so that no one will miss it.
 
 Good luck presenting your site, your project to the world!
 
-This is extra text I just added.
+A battery symbol is used on the pages of the J1 Theme documentation,
+which symbolizes the individual level of knowledge for the use of:
+* Functions for beginners of template system J1: {level--beginner}
+* Functions for users with basic knowledge of J1: {level--intermediate}
+* Advanced J1 features: {level--advanced}
+* Functions for experts in the application of J1: {level--expert}
+You find an overview of all the functions of the template system J1 on the
+page link:{url-j1--features}[J1 Theme Features, {browser-window--new}].
