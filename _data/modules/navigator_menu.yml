@@ -169,7 +169,11 @@
 #
 # - item:                                 Features
 #   href:                                 /#panel_home_intro
-
+# ------------------------------------------------------------------------------
+# Menu SANDBOX
+#
+- item:                                   Sandbox
+  href:                                   /pages/public/sandbox/simple/
 # ------------------------------------------------------------------------------
 # TopLevel item BLOG
 #
