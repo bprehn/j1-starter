@@ -32,7 +32,7 @@ fab_menu_id:                            open_toc
 scrollbar:                              false
 toc:                                    true
 regenerate:                             false
-permalink:                              /pages/public/sandbox/simple/
+permalink:                              /pages/public/sandbox-simple/
 
 resources:                              [ animate, lightbox, rouge ]
 resource_options:
