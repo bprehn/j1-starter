@@ -97,3 +97,6 @@ lorem:sentences[5]
 === Large selection of national and internal dishes
 
 lorem:sentences[5]
+
+.Your added image
+image::/assets/images/modules/gallery/old_times/image_01.jpg["GrandPa's 80th Birthday", role="mb-4"]
