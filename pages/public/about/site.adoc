@@ -1,6 +1,6 @@
 ---
-title:                                  Starter
-tagline:                                About This Site
+title:                                  My Starter
+tagline:                                About This Here Site
 date:                                   2022-01-01 00:00:00
 description: >
                                         Things you should know about this site, the people, the software
