@@ -98,5 +98,5 @@ lorem:sentences[5]
 
 lorem:sentences[5]
 
-.Your added image
-image::/assets/images/modules/gallery/old_times/image_01.jpg["GrandPa's 80th Birthday", role="mb-4"]
+.My added image - Limit the image width
+image::/assets/images/modules/gallery/old_times/image_01.jpg["GrandPa's 80th Birthday", role="mb-4 wm-800"]
