@@ -87,10 +87,9 @@ settings:
             href:                       //twitter.com/mount_kato/
           instagram:
             enabled:                    true
-            href:                       "#"
-#           href:                       //www.xing.com/profile/<your_profile>/
+            href:                       //www.instagram.com/mountkato/
           linkedin:
-            enabled:                    true
+            enabled:                    false
             href:                       "#"
 #           href:                       //www.linkedin.com/in/<your_profile>/
 
