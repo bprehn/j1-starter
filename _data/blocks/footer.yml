@@ -251,7 +251,7 @@ settings:
               enabled:                  true
               address_1:                Mount Kato LLC
               address_2:                20461 Old Hwy 66
-              address_3:                Mankato, MN 56001-7328
+              address_3:                Mankato, MN 56001
 
             phone:
               enabled:                  true
