@@ -82,7 +82,7 @@ settings:
           facebook:
             enabled:                    true
             href:                       "#"
-#           href:                       //www.facebook.com/<your_profile>/
+#           href:                       //www.facebook.com/mountkato/
           twitter:
             enabled:                    true
             href:                       "#"
