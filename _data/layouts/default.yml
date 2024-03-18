@@ -188,7 +188,7 @@ lanes:
   # The page footer displayed on all pages
   #
   - lane:
-      enabled:                          true
+      enabled:                          false
       id:                               footer_uno
       region:                           body-footer
       type:                             async
