@@ -85,8 +85,7 @@ settings:
 #           href:                       //www.facebook.com/mountkato/
           twitter:
             enabled:                    true
-            href:                       "#"
-#           href:                       //twitter.com/mount_kato/
+            href:                       //twitter.com/mount_kato/
           xing:
             enabled:                    true
             href:                       "#"
