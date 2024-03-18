@@ -52,9 +52,12 @@ _J1 Theme_. You need *both* to use this skeleton creating AsciiDoc
 documents from it.
 // Include sub-documents (if any)
 // -----------------------------------------------------------------------------
+
 == Chapter 1
 lorem:sentences[5]
+
 == Chapter 2
 lorem:sentences[5]
+
 === Section 1
 lorem:sentences[3]
