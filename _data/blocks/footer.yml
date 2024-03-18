@@ -86,7 +86,7 @@ settings:
           twitter:
             enabled:                    true
             href:                       "#"
-#           href:                       //twitter.com/<your_profile>/
+#           href:                       //twitter.com/mount_kato/
           xing:
             enabled:                    true
             href:                       "#"
