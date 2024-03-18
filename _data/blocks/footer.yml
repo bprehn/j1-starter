@@ -79,15 +79,15 @@ settings:
           github:
             enabled:                    false
             href:                       //github.com/jekyll-one/j1-starter
+          instagram:
+            enabled:                    true
+            href:                       //www.instagram.com/mountkato/
           facebook:
             enabled:                    true
             href:                       //www.facebook.com/mountkato/
           twitter:
             enabled:                    true
             href:                       //twitter.com/mount_kato/
-          instagram:
-            enabled:                    true
-            href:                       //www.instagram.com/mountkato/
           linkedin:
             enabled:                    false
             href:                       "#"
