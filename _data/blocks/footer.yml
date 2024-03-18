@@ -81,8 +81,7 @@ settings:
             href:                       //github.com/jekyll-one/j1-starter
           facebook:
             enabled:                    true
-            href:                       "#"
-#           href:                       //www.facebook.com/mountkato/
+            href:                       //www.facebook.com/mountkato/
           twitter:
             enabled:                    true
             href:                       //twitter.com/mount_kato/
