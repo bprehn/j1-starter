@@ -173,7 +173,11 @@
 # Menu SANDBOX
 #
 - item:                                   Sandbox
-  href:                                   /pages/public/sandbox/simple/
+  sublevel:                               
+   - title:                               Simple Sandbox page
+     href:                                /pages/public/sandbox/simple/
+     icon:                                pencil
+
 # ------------------------------------------------------------------------------
 # TopLevel item BLOG
 #
