@@ -515,9 +515,9 @@ whitelist:
 # ------------------------------------------------------------------------------
 #
 author:
-  name:                                 Juergen Adams
-  url:                                  https://jekyll.one/
-  email:                                jadams@web.de
+  name:                                 Mount Kato
+  url:                                  https://mountkato.com/
+  email:                                mail.mountkato.com
   github:
   facebook:
   twitter:
@@ -540,7 +540,7 @@ facebook:
   admins:
 
 webmaster:
-  email:                                webmaster@jekyll.one
+  email:                                bruce.prehn@mountkato.com
 
 webmaster_verifications:
   facebook:
@@ -640,8 +640,8 @@ defaults:
       compress:                         true
 
       author:
-        name:                           Juergen Adams
-        url:                            https://jekyll.one/
+        name:                           Bruce Prehn
+        url:                            https://mountkato.com/
 
       logo:                             /assets/images/icons/j1/j1-512x512.png
 
