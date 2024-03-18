@@ -77,7 +77,7 @@ settings:
         #
         icons:
           github:
-            enabled:                    true
+            enabled:                    false
             href:                       //github.com/jekyll-one/j1-starter
           facebook:
             enabled:                    true
