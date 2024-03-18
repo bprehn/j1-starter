@@ -257,7 +257,6 @@ settings:
               enabled:                  true
               office_hours:             9am - 4pm
               phone_1:                  (507) 625 3363
-              phone_2:                  (800) 668-5286
 
             internet:
               enabled:                  true
