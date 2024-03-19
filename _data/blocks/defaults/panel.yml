@@ -68,7 +68,7 @@ defaults:
   # ----------------------------------------------------------------------------
   #
   intro:
-    enabled:                            false
+    enabled:                            true
 
     id:                                 intro_panel_id
     comment:                            Intro Panel
@@ -79,7 +79,7 @@ defaults:
     cards:
 
       - card:
-          enabled:                      false
+          enabled:                      true
           type:                         text
           title:                        J1 Theme
           tagline:                      tagline-text-1
@@ -99,7 +99,7 @@ defaults:
                 href:                   #!
 
       - card:
-          enabled:                      false
+          enabled:                      true
           type:                         text
           title:                        J1 Theme
           tagline:                      tagline-text-2
@@ -119,7 +119,7 @@ defaults:
                 href:                   #!
 
       - card:
-          enabled:                      false
+          enabled:                      true
           type:                         text
           title:                        J1 Theme
           tagline:                      tagline-text-3
