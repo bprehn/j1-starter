@@ -122,7 +122,7 @@ settings:
                     id:                 roundtrip
                     translate:          notranslate                             # translate|notranslate
                     title:              Gift Cards
-                    tagline:            Are a great gift idea?
+                    tagline:            Are a great gift idea
                     class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2
                     style:              "min-width: 270px"
                     icon:                wallet-giftcard
