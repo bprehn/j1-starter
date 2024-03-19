@@ -131,16 +131,16 @@ settings:
                     href:               /pages/public/learn/roundtrip/present_images/
                     target:
 
-                - name:                 Rocketstart
+                - name:                 Take A Lesson
                   button:
                     enabled:            true
-                    id:                 rocketstart
+                    id:                 take-a-lesson
                     translate:          notranslate                             # translate|notranslate
-                    title:              Rocketstart
+                    title:              Take A Lesson
                     tagline:            finished in minutes
-                    class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2
+                    class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2 mdib mdib-ski
                     style:              "min-width: 270px"
-                    icon:               rocket-launch
+                    icon:               ski
                     icon_color:
                     icon_size:          3x
                     href:               https://jekyll.one/pages/public/learn/rocketstart/
