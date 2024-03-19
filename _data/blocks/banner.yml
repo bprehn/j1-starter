@@ -232,7 +232,6 @@ settings:
           justify:                      true
           brightness:                   80
           opacity:                      false
-          picture:                      /assets/images/modules/attics/ideas-start-here-1920x1280-bw.jpg
-
+          picture:                      assets/images/modules/attics/1920x1280/sunrise-whale.jpg
 # ------------------------------------------------------------------------------
 # END config
