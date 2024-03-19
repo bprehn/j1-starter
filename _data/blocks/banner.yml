@@ -82,7 +82,7 @@ settings:
 
         wave:
           top:
-            enabled:                    false
+            enabled:                    true
             height:                     3                                       # [1 .. 9]
             style:                      wave-1                                  # default
             color:                      "#DCDCDC"
