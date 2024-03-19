@@ -123,7 +123,7 @@ settings:
                     translate:          notranslate                             # translate|notranslate
                     title:              Gift Cards
                     tagline:            Are a great gift idea
-                    class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2 mdib 
+                    class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2 
                     style:              "min-width: 32%"
                     icon:               credit-card
                     icon_color:
@@ -138,7 +138,7 @@ settings:
                     translate:          notranslate                             # translate|notranslate
                     title:              Take A Lesson
                     tagline:            Ski Or Board
-                    class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2 mdib
+                    class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2
                     style:              "min-width: 32%"
                     icon:               ski
                     icon_color:
@@ -153,7 +153,7 @@ settings:
                     translate:          notranslate                             # translate|notranslate
                     title:              Book A Group
                     tagline:            online today!
-                    class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2 mdib
+                    class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2
                     style:              "min-width: 32%"
                     icon:               bus
                     icon_color:
