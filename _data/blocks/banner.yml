@@ -140,22 +140,22 @@ settings:
                     tagline:            finished in minutes
                     class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2 mdib mdib-ski
                     style:              "min-width: 270px"
-                    icon:               ski
+                    icon:               
                     icon_color:
                     icon_size:          3x
                     href:               https://jekyll.one/pages/public/learn/rocketstart/
                     target:             blank
 
-                - name:                 Download
+                - name:                 Book A Group
                   button:
                     enabled:            true
-                    id:                 download
+                    id:                 book-a-group
                     translate:          notranslate                             # translate|notranslate
-                    title:              Download
+                    title:              Book A Group
                     tagline:            get on rubygems
-                    class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2
+                    class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2 fa-solid fa-user-group
                     style:              "min-width: 270px"
-                    icon:               briefcase-download-outline
+                    icon:               
                     icon_color:
                     icon_size:          3x
                     href:               https://rubygems.org/gems/j1-template
