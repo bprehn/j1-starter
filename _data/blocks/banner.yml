@@ -125,7 +125,7 @@ settings:
                     tagline:            Are a great gift idea
                     class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2 mdib mdib-credit-card
                     style:              "min-width: 270px"
-                    icon:               credit-card
+                    icon:               
                     icon_color:
                     icon_size:          3x
                     href:               /pages/public/learn/roundtrip/present_images/
