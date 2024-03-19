@@ -155,7 +155,7 @@ settings:
                     tagline:            get on rubygems
                     class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2 fa-solid fa-user-group
                     style:              "min-width: 270px"
-                    icon:               fa-user-group
+                    icon:               user-group
                     icon_color:
                     icon_size:          3x
                     href:               https://rubygems.org/gems/j1-template
