@@ -290,7 +290,7 @@ lanes:
   # ----------------------------------------------------------------------------
   #
   - lane:
-      enabled:                          false
+      enabled:                          true
       id:                               banner_home_image
       region:                           body-main
       type:                             async
