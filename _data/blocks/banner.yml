@@ -76,7 +76,7 @@ settings:
         id:                             banner_home_teaser
         comment:                        Top teaser shown on home page
         type:                           teaser
-        badges:                         true
+        badges:                         false
         icon_family:                    mdib
         properties:                     mt-5
 
