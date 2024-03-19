@@ -42,7 +42,7 @@ settings:
     #
     - name:                             Divider Banner 1
       banner:
-        enabled:                        true
+        enabled:                        false
 
         id:                             banner_divider_1
         comment:                        Divider Banner 1
@@ -50,7 +50,7 @@ settings:
 
     - name:                             Divider Banner 2
       banner:
-        enabled:                        true
+        enabled:                        false
 
         id:                             banner_divider_2
         comment:                        Divider Banner 2
