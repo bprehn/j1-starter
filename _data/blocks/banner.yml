@@ -78,7 +78,7 @@ settings:
         type:                           teaser
         badges:                         false
         icon_family:                    mdib
-        properties:                     mt-5 row justify-content-center
+        properties:                     mt-5
 
         wave:
           top:
