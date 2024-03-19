@@ -78,7 +78,7 @@ settings:
         type:                           teaser
         badges:                         false
         icon_family:                    mdib
-        properties:                     mt-5
+        properties:                     mt-5 row justify-content-center
 
         wave:
           top:
@@ -115,7 +115,7 @@ settings:
                                         and the modules packed are also free to use.</p>
                                         <p class="mt-4 fw-bold">Explore what is possible when using static webs.</p>
               buttons:
-              
+
                 - name:                 Gift Cards
                   button:
                     enabled:            true
