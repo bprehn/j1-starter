@@ -248,7 +248,7 @@ brand:
 # Set the favicon and type
 #
 favicon:
-  image:                                icons/mk/mk-logo.ico
+  image:                                icons/mk/favicon.ico
   type:                                 image/ico
 
 
