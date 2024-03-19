@@ -115,6 +115,7 @@ settings:
                                         and the modules packed are also free to use.</p>
                                         <p class="mt-4 fw-bold">Explore what is possible when using static webs.</p>
               buttons:
+                class: centered
 
                 - name:                 Gift Cards
                   button:
