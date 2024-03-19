@@ -137,7 +137,7 @@ settings:
                     id:                 take-a-lesson
                     translate:          notranslate                             # translate|notranslate
                     title:              Take A Lesson
-                    tagline:            finished in minutes
+                    tagline:            Ski Or Board
                     class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2 mdib
                     style:              "min-width: 270px"
                     icon:               ski
@@ -152,10 +152,10 @@ settings:
                     id:                 book-a-group
                     translate:          notranslate                             # translate|notranslate
                     title:              Book A Group
-                    tagline:            get on rubygems
-                    class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2 fa-solid fa-user-group
+                    tagline:            online
+                    class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2 mdib
                     style:              "min-width: 270px"
-                    icon:               user-group
+                    icon:               bus
                     icon_color:
                     icon_size:          3x
                     href:               https://rubygems.org/gems/j1-template
