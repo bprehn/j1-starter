@@ -116,13 +116,13 @@ settings:
                                         <p class="mt-4 fw-bold">Explore what is possible when using static webs.</p>
               buttons:
 
-                - name:                 Roundtrip
+                - name:                 Gift Cards
                   button:
                     enabled:            true
                     id:                 roundtrip
                     translate:          notranslate                             # translate|notranslate
-                    title:              Roundtrip
-                    tagline:            learn top features
+                    title:              Gift Cards
+                    tagline:            Looking for a great gift idea? Give a Mount Kato gift card.
                     class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2
                     style:              "min-width: 270px"
                     icon:               briefcase-search-outline
