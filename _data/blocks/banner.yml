@@ -109,9 +109,7 @@ settings:
               translate_description:    notranslate                             # translate|notranslate
               description_properties:   mt-3 mb-3
               description: >
-                                        <p class="dropcap">
-                                          lorem:sentences[7]
-                                        </p>
+                                        lorem:sentences[7]
                                         <p class="mt-4 fw-bold">Explore what is possible when using static webs.</p>
               buttons:
 
