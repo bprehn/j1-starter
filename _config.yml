@@ -523,7 +523,7 @@ author:
   twitter:
   feedburner:
 
-logo:                                   /assets/images/icons/j1/j1-512x512.png
+logo:                                   /assets/images/icons/mk/mk-logo.png
 
 image:
   path:                                 /assets/images/promo/home/screenshot.jpg
@@ -643,7 +643,7 @@ defaults:
         name:                           Bruce Prehn
         url:                            https://mountkato.com/
 
-      logo:                             /assets/images/icons/j1/j1-512x512.png
+      logo:                             /assets/images/icons/mk/mk-logo.png
 
       image:
         path:                           /assets/images/promo/home/screenshot.jpg
@@ -697,7 +697,7 @@ defaults:
         name:                           Juergen Adams
         url:                            https://jekyll.one/
 
-      logo:                             /assets/images/icons/j1/j1-512x512.png
+      logo:                             /assets/images/icons/mk/mk-logo.png
 
       image:
         path:                           /assets/images/promo/home/screenshot.jpg
