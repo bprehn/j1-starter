@@ -104,7 +104,7 @@ settings:
               width:                    12
               type:                     text
               position:                 left                                    # left | center
-              title:                    <span class mt-5>Ski Great Snow</span>
+              title:                    <span class="mt-5">Ski Great Snow</span>
               tagline:                  <b>At Mount Kato!</b>
               translate_description:    notranslate                             # translate|notranslate
               description_properties:   mt-3 mb-3
