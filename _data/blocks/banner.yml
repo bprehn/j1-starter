@@ -104,8 +104,8 @@ settings:
               width:                    12
               type:                     text
               position:                 left                                    # left | center
-              title:                    J1
-              tagline:                  <b>modern static websites</b>
+              title:                    Mount Kato
+              tagline:                  <b>Ski Great Snow</b>
               translate_description:    notranslate                             # translate|notranslate
               description_properties:   mt-3 mb-3
               description: >
