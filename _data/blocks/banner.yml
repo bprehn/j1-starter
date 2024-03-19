@@ -152,7 +152,7 @@ settings:
                     id:                 book-a-group
                     translate:          notranslate                             # translate|notranslate
                     title:              Book A Group
-                    tagline:            online
+                    tagline:            online today!
                     class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2 mdib
                     style:              "min-width: 270px"
                     icon:               bus
