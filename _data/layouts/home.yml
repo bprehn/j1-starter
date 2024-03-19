@@ -359,7 +359,7 @@ lanes:
   # ----------------------------------------------------------------------------
   #
   - lane:
-      enabled:                          false
+      enabled:                          true
       id:                               panel_home_intro
       region:                           body-main
       type:                             async
