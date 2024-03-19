@@ -89,7 +89,7 @@ settings:
             background_color:           "#F5F5F5"
             transform:                  false                                   # false or rotate|flip-x|flip-y and combinations
           bottom:
-            enabled:                    false
+            enabled:                    true
             height:                     3
             style:                      wave-4
             color:                      "#DCDCDC"
