@@ -104,8 +104,8 @@ settings:
               width:                    12
               type:                     text
               position:                 left                                    # left | center
-              title:                    Ski Great Snow At Mount Kato!
-              tagline:                  <b>Ski | Ride | Tube</b>
+              title:                    Ski Great Snow
+              tagline:                  <b>At Mount Kato!</b>
               translate_description:    notranslate                             # translate|notranslate
               description_properties:   mt-3 mb-3
               description: >
