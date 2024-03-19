@@ -123,7 +123,7 @@ settings:
                     translate:          notranslate                             # translate|notranslate
                     title:              Gift Cards
                     tagline:            Are a great gift idea
-                    class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2
+                    class:              btn btn-raised btn-xl btn-primary text-uppercase text-left mr-2 mb-2 mdi mdi-wallet-giftcard
                     style:              "min-width: 270px"
                     icon:               wallet-giftcard
                     icon_color:
