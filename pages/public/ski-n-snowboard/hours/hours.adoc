@@ -92,7 +92,7 @@ resource_options:
 Mount Kato reserves the right to open/close chairlifts, runs, or complete operations due to weather, snowmaking, grooming, skier traffic, staffing issues or other factors.
 ====
 
-=== SPRING HOURS
+=== REGULAR HOURS
 
 == Skiing & Snowboarding ONLY!
 [cols="1,1"]
@@ -113,7 +113,7 @@ Mount Kato reserves the right to open/close chairlifts, runs, or complete operat
 // Include sub-documents (if any)
 // -----------------------------------------------------------------------------
 [role="mt-5"]
-== REGULAR HOURS
+== SPRING HOURS
 
 == Skiing & Snowboarding ONLY!
 [cols="1,1"]
