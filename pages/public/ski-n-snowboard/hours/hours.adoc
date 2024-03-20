@@ -84,10 +84,17 @@ resource_options:
 
 // Page content
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 == SKI & SNOWBOARD HOURS
 
 [NOTE]
 ====
+
+[%collapsible]
+====
+This content is only revealed when the user clicks the block title.
+====
+
 .Opening & Closing
 Mount Kato reserves the right to open/close chairlifts, runs, or complete operations due to weather, snowmaking, grooming, skier traffic, staffing issues or other factors.
 ====
@@ -112,6 +119,17 @@ Mount Kato reserves the right to open/close chairlifts, runs, or complete operat
 
 // Include sub-documents (if any)
 // -----------------------------------------------------------------------------
+
+Text in your document.
+
+****
+This is content in a sidebar block.
+
+image::name.png[]
+
+This is more content in the sidebar block.
+****
+
 ////
 [role="mt-5"]
 == SPRING HOURS
