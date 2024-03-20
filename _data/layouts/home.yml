@@ -180,7 +180,7 @@ lanes:
       file:                             generator.html
 
   - lane:
-      enabled:                          false
+      enabled:                          true
       id:                               custom_header
       region:                           body-header
       type:                             sync
