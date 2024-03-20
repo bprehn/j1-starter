@@ -9,7 +9,7 @@ description: >
                                         Main location of hours of operation for: The Office, Area operations,
                                         Lifts, Rental, Tubing, MountKato Learning Center
 
-categories:                             [ Hours ]
+categories:                             
 tags:                                   [ Skeleton, SimpleDocument ]
 
 robots:
