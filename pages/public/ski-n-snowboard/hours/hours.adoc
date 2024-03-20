@@ -20,7 +20,7 @@ robots:
   index:                                false
   follow:                               false
 
-image:                                  j1-starter/assets/images/modules/attics/1920x1280/lifts123.jpg
+image:                                  /j1-starter/assets/images/modules/attics/1920x1280/lifts123.jpg
   path:                                 
   width:                                1920
   height:                               1280
@@ -39,7 +39,7 @@ resource_options:
   - toccer:
       collapseDepth:                    3
   - attic:
-      slides:                           j1-starter/assets/images/modules/attics/1920x1280/lifts123.jpg
+      slides:                           /j1-starter/assets/images/modules/attics/1920x1280/lifts123.jpg
         - url:                          
           alt:                          Photo by Sigmund on Unsplash
           badge:
