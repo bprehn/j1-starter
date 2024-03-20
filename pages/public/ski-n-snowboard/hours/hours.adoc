@@ -36,12 +36,12 @@ resource_options:
       collapseDepth:                    3
   - attic:
       slides:
-        - url:                          /assets/images/modules/attics/sigmund-1920x1280.jpg
-          alt:                          Photo by Sigmund on Unsplash
+        - url:                          assets/images/modules/attics/1920x1280/lifts123.jpg
+          alt:                          Photo by Mount Kato
           badge:
-            type:                       unsplash
-            author:                     Sigmund
-            href:                       //unsplash.com/@sigmund
+            type:                       
+            author:                     Mount Kato
+            href:                       
 ---
 
 // Page Initializer
