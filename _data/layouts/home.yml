@@ -171,7 +171,7 @@ lanes:
   # ----------------------------------------------------------------------------
   #
   - lane:
-      enabled:                          true
+      enabled:                          false
       id:                               header
       region:                           body-header
       type:                             sync
