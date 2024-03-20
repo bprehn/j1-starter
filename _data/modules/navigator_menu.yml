@@ -170,6 +170,19 @@
 # - item:                                 Features
 #   href:                                 /#panel_home_intro
 # ------------------------------------------------------------------------------
+# ------------------------------------------------------------------------------
+# TopLevel item SKI-N-SNOWBOARD
+#
+# - item:                                 Ski-n-Snowboard
+#   href:                                 /#panel_home_intro
+# ------------------------------------------------------------------------------
+# Menu SKI-N-SNOWBOARD
+#
+- item:                                   Ski & Snowboard
+  sublevel:
+  - title:                                Hours
+    href:                                 /pages/public/ski-n-snowboard/
+    icon:                                 clock
 # Menu SANDBOX
 #
 - item:                                   Sandbox
