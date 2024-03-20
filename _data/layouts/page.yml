@@ -155,7 +155,7 @@ lanes:
   # ----------------------------------------------------------------------------
   #
   - lane:
-      enabled:                          false
+      enabled:                          true
       id:                               header
       region:                           body-header
       type:                             sync
