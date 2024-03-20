@@ -113,7 +113,6 @@ Mount Kato reserves the right to open/close chairlifts, runs, or complete operat
 
 // Include sub-documents (if any)
 // -----------------------------------------------------------------------------
-
 ////
 [role="mt-5"]
 == SPRING HOURS
