@@ -107,18 +107,6 @@ Mount Kato reserves the right to open/close chairlifts, runs, or complete operat
 |   
 |===
 
-Saturday Mar. 9th Spring Fling	10:00 am	to 6:00 pm	
-Sunday Mar. 10th Last Day of this Season	10:00 am	to 6:00 pm	
-Night Hours & Rates Begin At 4:00 pm
-
-[NOTE]
-====
-.Moving documents based on a J1 Skeleton
-
-All J1 Asciidoc Skeletons are fully *relocateable* and can be placed in any
-subfolder of your Jekyll site.
-====
-
 // Include sub-documents (if any)
 // -----------------------------------------------------------------------------
 [role="mt-5"]
