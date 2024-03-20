@@ -85,10 +85,17 @@ resource_options:
 // Page content
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 == SKI & SNOWBOARD HOURS
+
+[NOTE]
+====
+.Opening & Closing
 Mount Kato reserves the right to open/close chairlifts, runs, or complete operations due to weather, snowmaking, grooming, skier traffic, staffing issues or other factors.
+====
 
 === SPRING HOURS
-Skiing & Snowboarding ONLY!                          	 		 
+
+== Skiing & Snowboarding ONLY!
+
 Saturday Mar. 9th Spring Fling	10:00 am	to 6:00 pm	
 Sunday Mar. 10th Last Day of this Season	10:00 am	to 6:00 pm	
 Night Hours & Rates Begin At 4:00 pm
@@ -422,33 +429,3 @@ Typically you’ll use `jekyll serve` while developing locally and
 ----
 jekyll b -c ./site_configs/_config.yml
 ----
-
-=== Build a site in mode incremental
-
-Typically you’ll use `jekyll serve` while developing locally and
-`jekyll build` when you need to generate the site for production.
-
-[source, sh]
-----
-jekyll b --incremental
-----
-
-[role="mt-4"]
-=== Run a site in mode incremental
-
-Typically you’ll use `jekyll serve` while developing locally and
-`jekyll build` when you need to generate the site for production.
-
-[source, sh]
-----
-jekyll s --incremental
-----
-
-[role="mt-5"]
-== Summary
-
-[role="mb-7"]
-Simple documents are used quite often for documents of a website. If the number
-of chapters is about or less than three and the document is small in size,
-simple documents should fit. This document type is based on a *single* Asciidoc
-document and does *not* use any (local) Asciidoc include files or attributes.
