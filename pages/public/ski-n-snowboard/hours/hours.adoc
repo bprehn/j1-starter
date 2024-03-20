@@ -84,10 +84,14 @@ resource_options:
 
 // Page content
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-The Asciidoc skeleton *simple-document* a helper for setting up a base file
-and folder structure for simple-document AsciiDoc pages based on _Jekyll_ and
-_J1 Template_. You need *both* to use this skeleton creating AsciiDoc
-documents from it.
+== SKI & SNOWBOARD HOURS
+Mount Kato reserves the right to open/close chairlifts, runs, or complete operations due to weather, snowmaking, grooming, skier traffic, staffing issues or other factors.
+
+=== SPRING HOURS
+Skiing & Snowboarding ONLY!                          	 		 
+Saturday Mar. 9th Spring Fling	10:00 am	to 6:00 pm	
+Sunday Mar. 10th Last Day of this Season	10:00 am	to 6:00 pm	
+Night Hours & Rates Begin At 4:00 pm
 
 [NOTE]
 ====
