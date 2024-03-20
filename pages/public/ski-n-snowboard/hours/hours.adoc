@@ -90,11 +90,6 @@ resource_options:
 [NOTE]
 ====
 
-[%collapsible]
-====
-This content is only revealed when the user clicks the block title.
-====
-
 .Opening & Closing
 Mount Kato reserves the right to open/close chairlifts, runs, or complete operations due to weather, snowmaking, grooming, skier traffic, staffing issues or other factors.
 ====
