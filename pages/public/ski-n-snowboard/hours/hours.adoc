@@ -106,12 +106,13 @@ Mount Kato reserves the right to open/close chairlifts, runs, or complete operat
 |Friday and Saturday
 |9:30 am to  10:00 pm
 
-| Night Hours & Rates Begin At 4:00 pm
+|Night Hours & Rates Begin At 4:00 pm
 |
 |===
 
 // Include sub-documents (if any)
 // -----------------------------------------------------------------------------
+////
 [role="mt-5"]
 == SPRING HOURS
 
@@ -127,7 +128,7 @@ Mount Kato reserves the right to open/close chairlifts, runs, or complete operat
 |Night Hours & Rates Begin At 4:00 pm
 |   
 |===
-
+////
 
 _Jekyll_ is a *robot*, an *engine* to generate a site from a site *scaffold*.
 The _Jekyll_ Ruby *Gem* provides an  *executable*  named `jekyll` to be used
