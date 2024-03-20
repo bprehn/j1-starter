@@ -95,6 +95,17 @@ Mount Kato reserves the right to open/close chairlifts, runs, or complete operat
 === SPRING HOURS
 
 == Skiing & Snowboarding ONLY!
+[cols="1,1"]
+|===
+|Cell in column 1, row 1
+|Cell in column 2, row 1
+
+|Cell in column 1, row 2
+|Cell in column 2, row 2
+
+|Cell in column 1, row 3
+|Cell in column 2, row 3
+|===
 
 Saturday Mar. 9th Spring Fling	10:00 am	to 6:00 pm	
 Sunday Mar. 10th Last Day of this Season	10:00 am	to 6:00 pm	
