@@ -17,7 +17,7 @@ robots:
   follow:                               false
 
 image:
-  path:                                 /assets/images/modules/attics/sigmund-1920x1280.jpg
+  path:                                 assets/images/modules/attics/1920x1280/lifts123.jpg
   width:                                1920
   height:                               1280
 
