@@ -236,7 +236,7 @@ lanes:
   # ----------------------------------------------------------------------------
   #
   - lane:
-      enabled:                          false
+      enabled:                          true
       id:                               banner_home_teaser
       region:                           body-main
       type:                             async
