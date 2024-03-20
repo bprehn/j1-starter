@@ -1,0 +1,60 @@
+# ------------------------------------------------------------------------------
+# ~/_data/modules/defaults/gallery.yml
+# Default configuration for J1 Justified Gallery (jg)
+#
+# Product/Info:
+# https://jekyll.one
+#
+# Copyright (C) 2023, 2024 Juergen Adams
+#
+# J1 Template is licensed under the MIT License.
+# See: https://github.com/jekyll-one-org/j1-template/blob/main/LICENSE.md
+# ------------------------------------------------------------------------------
+
+# ------------------------------------------------------------------------------
+# Description
+#
+description:
+  title:                                Justified Gallery
+  scope:                                Default settings
+  location:                             _data/apps/defaults/justifiedGallery.yml
+
+# ------------------------------------------------------------------------------
+# User configuration settings
+#
+defaults:
+
+  # ----------------------------------------------------------------------------
+  # GENERAL gallery settings
+  #
+  # enabled
+  # ----------------------------------------------------------------------------
+  #   Enables|Disables the use of a gallery
+  #
+  # xhr_data_path
+  # ----------------------------------------------------------------------------
+  # The HTML portion of a grid are being read from a HTML file generated
+  # automatically from its configuration for all galleries configured.
+  # AJAX methods are used to supply the needed HTML code at the time
+  # a gallery is initialized by the JS adapter.
+  #
+  #   values:                           string
+  #   default:                          /assets/data/galleries.html
+  #
+  # ----------------------------------------------------------------------------
+  #
+  enabled:                              false                                    # needed for j1.layout_shim_generator.html
+  xhr_data_path:                        /assets/data/galeries
+  gallery_complete_timeout:             1000
+
+  # ------------------------------------------------------------------------
+  # CSS filter options
+  #
+  filters:
+    enabled:                            false
+    grayscale:                          1
+    contrast:                           0.8
+    brightness:                         0.4
+
+# ------------------------------------------------------------------------------
+# END config
