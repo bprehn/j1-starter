@@ -163,6 +163,6 @@ This content is only revealed when the user clicks the block title.
 
 [NOTE]
 ====
-_Prices Quoted for the 2023-2024 Season._
+_Prices Quoted for the {{site.data.MK-Variables.mk-season:}} Season._
 Hours and prices subject to change without notice due to weather or other reasons.
 ====
