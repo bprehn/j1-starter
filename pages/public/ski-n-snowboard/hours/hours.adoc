@@ -107,7 +107,7 @@ Mount Kato reserves the right to open/close chairlifts, runs, or complete operat
 |Friday and Saturday
 |{{site.data.MK-Variables.mk-hours.mk-hours-fri-sat:}}
 
-|Night Hours & Rates Begin At 4:00 pm
+|Night Hours & Rates Begin At {{site.data.MK-Variables.mk-hours.mk-hours-night-rate:}}
 |
 |===
 
