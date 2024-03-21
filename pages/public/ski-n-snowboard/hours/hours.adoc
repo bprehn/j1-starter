@@ -149,19 +149,21 @@ Regular Snow Tubing Sessions ${{site.data.MK-Variables.mk-tubing.mk-tubing-2hr:}
 .Tubing Hours ONLY!
 [cols="20h,~,~,~"]
 |===
-|Day |Hours |Regular snowtubing Sessions |Glow Tubing Session
+|Day |Hours |Regular Tubing Sessions |Glow Tubing Session
 
 |Friday 
 |{{site.data.MK-Variables.mk-tubing.mk-tubing-hours-fri:}}
-|4:00p – 6:00p	6:30p – 8:30p
+|4:00p – 6:00p	
+|6:30p – 8:30p
 
 |Saturday
 |{{site.data.MK-Variables.mk-tubing.mk-tubing-hours-sat:}}
-|11:00a – 1:00p, 1:30p – 3:30p, 4:00p – 6:00p	6:30p – 8:30p
+|11:00a – 1:00p, 1:30p – 3:30p, 4:00p – 6:00p	
+|6:30p – 8:30p
 
 |Sunday
 |{{site.data.MK-Variables.mk-tubing.mk-tubing-hours-sun:}}
-|Noon to 2:00p, 2:30p – 4:30p, 5:00p – 7:00p
+|Noon to 2:00p, 2:30p – 4:30p, 5:00p – 7:00p |
 |===
 
 [NOTE]
