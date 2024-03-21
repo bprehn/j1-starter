@@ -1,0 +1,174 @@
+---
+title:                                  Hours
+tagline:                                Hours of Operations
+
+date:                                   2024-03-20
+#last_modified:                         2023-01-01
+
+description: >
+                                        J1 Template is a Bootstrap V5 website template for the static
+                                        site generator Jekyll.
+                                        Simple documents are used quite often. If the number
+                                        of chapters is about or less than three and the document
+                                        is small in size. This document type does not use any
+                                        (local) Asciidoc include files or attributes.
+
+categories:                             [ Knowledge, Asciidoc ]
+tags:                                   [ Skeleton, SimpleDocument ]
+
+robots:
+  index:                                false
+  follow:                               false
+
+image:
+  path:                                 lifts123.jpg
+  width:                                1920
+  height:                               1280
+
+personalization:                        false
+comments:                               false
+exclude_from_search:                    false
+fab_menu_id:                            open_toc
+scrollbar:                              false
+toc:                                    true
+regenerate:                             false
+permalink:                              /pages/public/ski-n-snowboard/hours/
+
+resources:                              [ animate, lightbox, rouge ]
+resource_options:
+  - toccer:
+      collapseDepth:                    3
+  - attic:
+      slides:
+        - url:                          lifts123.jpg
+          alt:                          Photo by Sigmund on Unsplash
+          badge:
+            type:                       unsplash
+            author:                     Sigmund
+            href:                       //unsplash.com/@sigmund
+---
+
+// Page Initializer
+// =============================================================================
+// Enable the Liquid Preprocessor
+:page-liquid:
+
+// Set (local) page attributes here
+// -----------------------------------------------------------------------------
+// :page--attr:                         <attr-value>
+:url-fontawesome--home:                 https://fontawesome.com/
+:url-fontawesome--icons:                https://fontawesome.com/icons?d=gallery/
+:url-fontawesome--get-started:          https://fontawesome.com/get-started/
+
+:url-mdi--home:                         https://materialdesignicons.com/
+:url-mdi-icons--cheatsheet:             https://cdn.materialdesignicons.com/3.3.92/
+
+:url-iconify--home:                     https://iconify.design/
+:url-iconify--icon-sets:                https://iconify.design/icon-sets/
+:url-iconify--medical-icons:            https://iconify.design/icon-sets/medical-icon/
+:url-iconify--brand-icons:              https://iconify.design/icon-sets/logos/
+
+:url-roundtrip--mdi-icons:              /pages/public/learn/roundtrip/mdi_icon_font/#material-design-icons
+:url-roundtrip--fontawesome-icons:      /pages/public/learn/roundtrip/mdi_icon_font/#fontawesome-icons
+:url-roundtrip--iconify-icons:          /pages/public/learn/roundtrip/mdi_icon_font/#iconify-icons
+:url-roundtrip--asciidoc-extensions:    /pages/public/learn/roundtrip/asciidoc_extensions/
+
+//  Load Liquid procedures
+// -----------------------------------------------------------------------------
+{% capture load_attributes %}themes/{{site.template.name}}/procedures/global/attributes_loader.proc{%endcapture%}
+
+// Load page attributes
+// -----------------------------------------------------------------------------
+{% include {{load_attributes}} scope="global" %}
+
+
+// Page content
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+image::MorningPan.jpg[Mount Kato Panorama, role="img-fluid"]
+
+== SKI & SNOWBOARD HOURS
+
+[NOTE]
+====
+.Opening & Closing
+Mount Kato reserves the right to open/close chairlifts, runs, or complete operations due to weather, snowmaking, grooming, skier traffic, staffing issues or other factors.
+====
+
+=== REGULAR HOURS
+
+.Skiing & Snowboarding ONLY!
+[cols="1,1"]
+|===
+|Monday, Tuesday, Thursday and Sunday 
+|{{site.data.MK-Variables.mk-hours.mk-hours-mtthsu}}
+
+|Wednesdays
+|CLOSED
+
+|Friday and Saturday
+|{{site.data.MK-Variables.mk-hours.mk-hours-fri-sat:}}
+
+|Night Hours & Rates Begin At {{site.data.MK-Variables.mk-hours.mk-hours-night-rate:}}
+|
+|===
+
+// Include sub-documents (if any)
+// -----------------------------------------------------------------------------
+[%collapsible]
+====
+This content is only revealed when the user clicks the block title.
+====
+
+// Spring Hours
+// ----------------------------------------------------------------------------- 
+////
+[role="mt-5"]
+== SPRING HOURS
+
+=== Skiing & Snowboarding ONLY!
+[cols="1,1"]
+|===
+|Saturday Mar. 9th Spring Fling 
+|10:00 am	to 6:00 pm
+
+|Sunday Mar. 10th Last Day of this Season
+|10:00 am	to 6:00 pm
+
+|Night Hours & Rates Begin At 4:00 pm
+|   
+|===
+////
+// Snow Tubing Hours
+// ----------------------------------------------------------------------------- 
+image::TubingPan.jpg[Tubing Panorama, role="img-fluid"]
+[role="mt-5"]
+== SNOW TUBING HOURS
+
+=== REGULAR HOURS
+
+Regular Snow Tubing Sessions ${{site.data.MK-Variables.mk-tubing.mk-tubing-2hr:}}footnote:price[_Prices Quoted for the {{site.data.MK-Variables.mk-season:}} Season._] • Glow Tubing Session ${{site.data.MK-Variables.mk-tubing.mk-tubing-2hr-glow:}}footnote:price[] 	
+
+.Tubing Hours ONLY!
+[cols="20h,~,~,~"]
+|===
+|Day |Hours |Regular Tubing Sessions |Glow Tubing Session
+
+|Friday 
+|{{site.data.MK-Variables.mk-tubing.mk-tubing-hours-fri:}}
+|4:00p – 6:00p	
+|6:30p – 8:30p
+
+|Saturday
+|{{site.data.MK-Variables.mk-tubing.mk-tubing-hours-sat:}}
+|11:00a – 1:00p, 1:30p – 3:30p, 4:00p – 6:00p	
+|6:30p – 8:30p
+
+|Sunday
+|{{site.data.MK-Variables.mk-tubing.mk-tubing-hours-sun:}}
+|Noon to 2:00p, 2:30p – 4:30p, 5:00p – 7:00p |
+|===
+
+[NOTE]
+====
+Hours and prices subject to change without notice due to weather or other reasons.
+====

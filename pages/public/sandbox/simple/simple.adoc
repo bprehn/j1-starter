@@ -1,0 +1,63 @@
+---
+title:                                  Sandbox
+tagline:                                simple sandbox
+date:                                   2022-01-01 00:00:00
+description: >
+                                        Simple documents are used quite often. If the number
+                                        of chapters is about or less than three and the document
+                                        is small in size. This document type does not use any
+                                        (local) Asciidoc include files or attributes.
+categories:                             [ Knowledge ]
+tags:                                   [ Asciidoc, Sandbox, Document ]
+robots:
+  index:                                true
+  follow:                               true
+permalink:                              /pages/public/sandbox/simple/
+regenerate:                             false
+resources:                              [ animate, clipboard, lightbox, rouge ]
+resource_options:
+  - toccer:
+      collapseDepth:                    3
+  - attic:
+      padding_top:                      400
+      padding_bottom:                   50
+      opacity:                          0.5
+      slides:
+        - url:                          /assets/images/pages/skeleton/antonino-visalli-1920x1280.jpg
+          alt:                          Photo by Antonino Visalli on Unsplash
+          alignY:                       top
+          badge:
+            type:                       unsplash
+            author:                     Antonino Visalli
+            href:                       //unsplash.com/@_visalli
+---
+// Page Initializer
+// =============================================================================
+// Enable the Liquid Preprocessor
+:page-liquid:
+// Set (local) page attributes here
+// -----------------------------------------------------------------------------
+// :page--attr:                         <attr-value>
+//  Load Liquid procedures
+// -----------------------------------------------------------------------------
+{% capture load_attributes %}themes/{{site.template.name}}/procedures/global/attributes_loader.proc{%endcapture%}
+// Load page attributes
+// -----------------------------------------------------------------------------
+{% include {{load_attributes}} scope="global" %}
+// Page content
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The Asciidoc skeleton *simple-document* a helper for setting up a base file
+and folder structure for simple-document AsciiDoc pages based on _Jekyll_ and
+_J1 Theme_. You need *both* to use this skeleton creating AsciiDoc
+documents from it.
+// Include sub-documents (if any)
+// -----------------------------------------------------------------------------
+
+== Chapter 1
+lorem:sentences[5]
+
+== Chapter 2
+lorem:sentences[5]
+
+=== Section 1
+lorem:sentences[3]
