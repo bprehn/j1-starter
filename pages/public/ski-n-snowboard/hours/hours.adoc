@@ -93,7 +93,7 @@ resource_options:
 Mount Kato reserves the right to open/close chairlifts, runs, or complete operations due to weather, snowmaking, grooming, skier traffic, staffing issues or other factors.
 ====
 
-== REGULAR HOURS.footnote:hours[Hours and prices subject to change without notice due to weather or other reasons.]
+== REGULAR HOURS
 
 === Skiing & Snowboarding ONLY!
 [cols="1,1"]
@@ -142,7 +142,7 @@ This content is only revealed when the user clicks the block title.
 [role="mt-5"]
 == SNOW TUBING HOURS
 
-=== REGULAR HOURS.footnote:hours[]
+=== REGULAR HOURS
 
 2 hr ${{site.data.MK-Variables.mk-tubing.mk-tubing-2hr:}}footnote:price[_Prices Quoted for the {{site.data.MK-Variables.mk-season:}} Season._] Regular Snow Tubing Sessions	2 hr ${{site.data.MK-Variables.mk-tubing.mk-tubing-2hr-glow:}}footnote:price[] Glow Tubing Session
 
