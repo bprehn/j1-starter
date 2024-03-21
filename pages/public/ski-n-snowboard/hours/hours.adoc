@@ -153,8 +153,8 @@ This content is only revealed when the user clicks the block title.
 |Wednesdays
 |CLOSED
 
-|Friday and Saturday
-|{{site.data.MK-Variables.mk-hours.mk-hours-fri-sat:}}
+|FRIDAY
+|{{site.data.MK-Variables.mk-hours.mk-tubing-hours-fri:}}
 
 |Night Hours & Rates Begin At {{site.data.MK-Variables.mk-hours.mk-hours-night-rate:}}
 |
