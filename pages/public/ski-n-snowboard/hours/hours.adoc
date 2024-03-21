@@ -148,13 +148,13 @@ This content is only revealed when the user clicks the block title.
 [cols="1,1"]
 |===
 |Friday 
-|{{site.data.MK-Variables.mk-hours.mk-tubing-hours-fri:}}
+|{{site.data.MK-Variables.mk-tubing.mk-tubing-hours-fri:}}
 
 |Saturday
-|{{site.data.MK-Variables.mk-hours.mk-tubing-hours-sat:}}
+|{{site.data.MK-Variables.mk-tubing.mk-tubing-hours-sat:}}
 
 |Sunday
-|{{site.data.MK-Variables.mk-hours.mk-tubing-hours-suni:}}
+|{{site.data.MK-Variables.mk-tubing.mk-tubing-hours-suni:}}
 |===
 FRIDAY  	4:00p – 6:00p	6:30p – 8:30p
 SATURDAY 	11:00a – 1:00p, 1:30p – 3:30p, 4:00p – 6:00p	6:30p – 8:30p
