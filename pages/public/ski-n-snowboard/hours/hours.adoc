@@ -140,8 +140,9 @@ This content is only revealed when the user clicks the block title.
 ////
 // Snow Tubing Hours
 // ----------------------------------------------------------------------------- 
-image::TubingPan.jpg[Tubing Panorama, role="img-fluid"]
+
 [role="mt-5"]
+image::TubingPan.jpg[Tubing Panorama, role="img-fluid"]
 == SNOW TUBING HOURS
 
 === REGULAR HOURS
