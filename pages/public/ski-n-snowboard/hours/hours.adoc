@@ -145,16 +145,19 @@ This content is only revealed when the user clicks the block title.
 === REGULAR HOURS
 
 2 hr $20 Regular Snow Tubing Sessions	2 hr $25 Glow Tubing Session
-[cols="1,1"]
+[cols="1,1,1"]
 |===
 |Friday 
 |{{site.data.MK-Variables.mk-tubing-hours-fri:}}
+|4:00p – 6:00p	6:30p – 8:30p
 
 |Saturday
 |{{site.data.MK-Variables.mk-tubing-hours-sat:}}
+|11:00a – 1:00p, 1:30p – 3:30p, 4:00p – 6:00p	6:30p – 8:30p
 
 |Sunday
-|{{site.data.MK-Variables.mk-tubing-hours-suni:}}
+|{{site.data.MK-Variables.mk-tubing-hours-sun:}}
+|Noon to 2:00p, 2:30p – 4:30p, 5:00p – 7:00p
 |===
 FRIDAY  	4:00p – 6:00p	6:30p – 8:30p
 SATURDAY 	11:00a – 1:00p, 1:30p – 3:30p, 4:00p – 6:00p	6:30p – 8:30p
