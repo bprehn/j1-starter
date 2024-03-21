@@ -144,11 +144,12 @@ This content is only revealed when the user clicks the block title.
 
 === REGULAR HOURS
 
-2 hr ${{site.data.MK-Variables.mk-tubing.mk-tubing-2hr:}}footnote:price[_Prices Quoted for the {{site.data.MK-Variables.mk-season:}} Season._] Regular Snow Tubing Sessions	2 hr ${{site.data.MK-Variables.mk-tubing.mk-tubing-2hr-glow:}}footnote:price[] Glow Tubing Session
+	
 
 .Tubing Hours ONLY!
-[cols="20h,~,~"]
+[cols="20h,~,~,~"]
 |===
+|Day |Hours |2 hr ${{site.data.MK-Variables.mk-tubing.mk-tubing-2hr:}}footnote:price[_Prices Quoted for the {{site.data.MK-Variables.mk-season:}} Season._] Regular Snow Tubing Sessions |2 hr ${{site.data.MK-Variables.mk-tubing.mk-tubing-2hr-glow:}}footnote:price[] Glow Tubing Session
 |Friday 
 |{{site.data.MK-Variables.mk-tubing.mk-tubing-hours-fri:}}
 |4:00p – 6:00p	6:30p – 8:30p
