@@ -99,7 +99,7 @@ Mount Kato reserves the right to open/close chairlifts, runs, or complete operat
 [cols="1,1"]
 |===
 |Monday, Tuesday, Thursday and Sunday 
-|9:30 am to  9:00 pm
+|{{site.data.MK-Variables.mk-hours.mk-hours-mtthsu}}
 
 |Wednesdays
 |CLOSED
