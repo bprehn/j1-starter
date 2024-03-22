@@ -198,4 +198,4 @@ Hours and prices subject to change without notice due to weather or other reason
 // Date Test
 // -----------------------------------------------------------------------------
 
-Day: {{ MK-Variables.mk-date-test.test-date-1 | date: "%d" }}
+Day: {{ site.data.MK-Variables.mk-date-test.test-date-1 | date: "%d" }}
