@@ -195,3 +195,7 @@ Regular Snow Tubing Sessions ${{site.data.MK-Variables.mk-tubing.mk-tubing-2hr:}
 ====
 Hours and prices subject to change without notice due to weather or other reasons.
 ====
+// Date Test
+// -----------------------------------------------------------------------------
+
+Day: {% raw %}{{ MK-Variables.mk-date-test.test-date-1 | date: "%d" }}{% endraw %}
